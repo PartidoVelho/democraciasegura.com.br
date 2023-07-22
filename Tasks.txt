@@ -20,3 +20,6 @@ reforma democratica: delegacias precisam ser ambientes muito menos hostis. ambie
 
 orgaos publicos, ao receber denuncias de terceiros em favor de uma vitima, deverao contatar esta vitima para confirmaçao
 por exemplo, quando o MP recebe um denuncia de terceiro, a delegacia responsavel tera um roteiro obrigatorio de perguntas, nao podendo escapar ponto algum da denuncia original
+
+criaçao de uma policia intermediaria entre PF e PM
+possibilidade de chamar essa policia quando a PM comete algum crime/ameaça/prevaricaçao

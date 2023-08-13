@@ -18,6 +18,8 @@ grvçs (embed meu tweet sobre "gritam 24hrs por dia")
 - hash de dados inclusive de conversa assistente social, prontuarios em UBS, receitas e diagnosticos
 - trocar anexos em PDF por pastas. isso permite rotulamento de provas e outras formas de melhor organizaçao. acredite ou nao, nem tudo que é digital foi realmente informatizado.
 
+delegacias deverao enviar copia digital de termo assinado e permitir que depoente possa tirar foto do termo assinado
+
 - orgaos publicos deverao ter assistencia de AI GPT; pois na atual forma, é humanamente degradante tanto para os agentes publicos qnt pras vitimas
 
 reforma democratica: delegacias precisam ser ambientes muito menos hostis. ambiente acolhedor imparcial. cameras e pente-fino em escrutinio do comportamento como "voces nao sao dignas de pisar em uma delegacia" ; mover institutos de identificaçao para serem orgaos publicos independentes, que nao tenham ligaçao com o poder policial

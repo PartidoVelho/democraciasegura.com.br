@@ -1,19 +1,19 @@
-commit QmYhfoNQmPb75GizZaTfAR3a3BSQkt53cYYuEiyGAgRijc
+commit QmcsCMr5aqEzKMVaKk8FvUHdjHLpiETGzXt1nWXGawGSxf
 Branch: main
 Signed-off by: danimesq.eth (0xDDfC2e10702d8A781727A34D83B3bb3CA94a3E91)
-Signature: 93abcb8677ab649c8099ccadaa7ed0dd0241369e52df5446766cbfebd99bfd4251ac965d8a5a4f91a304266fc8ff046f8148925d4f401f179de0af429f2a23cf00
+Signature: dc800f445e200e80afa3a30ff083352b8c7952ea2883b1984f98dec21660e0660ac75079f9b02ae3442ebe022b68661f57b242ee4d3150e09995c760cf03ea1801
 
 ------------------------------
 
-Commit CID if including git's SHA1: QmQ1q6fbE2qwyJVHPetKPedyD1dRvqdZW3a4JVrB2ou7J5
-Commit CID if containing only file hashes: QmaUpFEUoFZ3YWEBscUigxTS5RdrVkHgNLF5GT4cYPHiJz
+Commit CID if including git's SHA1: QmXh76gcU1yfzueXYwfSntN1HZvSy9LNeFrYjQtVqHFKVa
+Commit CID if containing only file hashes: QmZmEjrcpd4NZh5XjPi2mnqZN1v8b9j8ePdYHggNQewoRm
 
 ------------------------------
 
 .gitmeta version: r8
 Local folder: /media/daniella/B/git/Velho/Sites/democraciasegura.com.br
-Remote Name: gh
-Remote URL: https://github.com/PartidoVelho/democraciasegura.com.br.git
+Remote Name: origin
+Remote URL: https://gitlab.com/PartidoVelho/democraciasegura.com.br.git
 
 ------------------------------
 
